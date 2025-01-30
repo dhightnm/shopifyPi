@@ -1,0 +1,6 @@
+Flask==2.2.3
+pyngrok==5.2.2
+python-dotenv==0.21.1
+RPi.GPIO==0.7.2
+luma.oled==3.8.2
+Pillow==9.5.0
